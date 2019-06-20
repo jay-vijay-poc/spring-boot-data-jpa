@@ -1,0 +1,5 @@
+com\javatechie\email\api\service\EmailService.class
+com\javatechie\email\api\dto\MailRequest.class
+com\javatechie\email\api\SpringBootEmailFreemarkerApplication.class
+com\javatechie\email\api\config\ApiConfig.class
+com\javatechie\email\api\dto\MailResponse.class
